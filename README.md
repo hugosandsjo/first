@@ -4,3 +4,6 @@ https://media3.giphy.com/media/2AYlbaDkqzbqc1J8Dh/giphy.gif?cid=ecf05e47ypmaobm7
 
 Im writing some text in this document
 Im writing some more text
+
+This is Lars writing in Hugo's README file.
+Hello, hello.
